@@ -12,6 +12,8 @@ The Python packages that I have used in this notebook are:
 - NumPy: For numerical computations
 - Pandas: For data processing and file input/output
 - Matplotlib: For data visualization
+<hr>
+<br>
 
 ### Analysis covered in this project:
 - Number of matches played till now.
