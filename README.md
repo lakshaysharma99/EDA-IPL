@@ -2,13 +2,16 @@
 <h1>Indian Premium League: Exploratory data analysis (EDA)</h1>
 A Data Analysis and Visualization Project using Python
 </div>
+<br>
 In this project, I have done exploratory data analysis on IPL matches where I have tried to answer a few questions and find some insights using the available data. The dataset that I have used in this notebook is IPL (Indian Premier League) dataset posted on Kaggle Datasets sourced from cricsheet. The dataset has information about IPL matches from 2008 to 2022.
+<hr>
+<br>
 
 The Python packages that I have used in this notebook are:
 
-NumPy: For numerical computations
-Pandas: For data processing and file input/output
-Matplotlib: For data visualization
+- NumPy: For numerical computations
+- Pandas: For data processing and file input/output
+- Matplotlib: For data visualization
 
 Analysis covered in this project:
 Number of matches played till now.
